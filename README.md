@@ -1,5 +1,5 @@
 # CSLS
-- Paper name
+- An Effective Combined Score based Local Search Algorithm for Weighted Set Covering
 
 
 ## 1. Set up
