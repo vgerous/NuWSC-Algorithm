@@ -16,7 +16,6 @@ def RunSeedV3(seed, data_index, solver, dataname):
     elif solver == 'open-wbo':
         command = "./TT-Open-WBO-Inc-21/bin/tt-open-wbo-inc_static maxsat-benchmark/" + dataname + "/" + str(data_index)
     elif solver == 'SATLike':
-        #command = "./satlike-c/bin/satlike-c_static maxsat-benchmark/" + dataname + "/" +str(data_index)
         command = "./satlike-c/bin/SATLike3.0-c maxsat-benchmark/" + dataname + "/" +str(data_index)
     elif solver == 'open-wbo-g':
         command = "./TT-Open-WBO-Inc-21/bin/open-wbo-g maxsat-benchmark/" + dataname + "/" + str(data_index)

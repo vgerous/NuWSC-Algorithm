@@ -1,5 +1,0 @@
-TT_Open_WBO_Inc_21: an anytime MaxSAT solver by Alexander Nadel, alexander.nadel@cs.tau.ac.il, submitted to all the four incomplete tracks of MaxSAT Evaluation 2021.
-
-TT_Open_WBO_Inc_21 is the 2021 version of our solver TT_Open_WBO_Inc. TT_Open_WBO_Inc_21 has the following two major new features as compared to the previous version TT_Open_WBO_Inc_20: 1. integration of SatLike for inprocessing, and 2. further modifications to the Polosat algorithm.
-
-To compile: run make rs in code directory.
